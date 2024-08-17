@@ -1,7 +1,7 @@
 from PIL import Image, ImageTk
 import tkinter as tk
 import os
-import github.getimg as img
+import getimg as img
 
 img.get_titles_and_images("cats", 10)
 
