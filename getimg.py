@@ -12,7 +12,7 @@ reddit = praw.Reddit(
     client_id="YOURE CLIENT ID",
     #instert youre client secret
     client_secret="YOURE CLIENT SECRET",
-    user_agent="reddibot"
+    user_agent="redditbot"
 )
 
 # Function to download an image from a Reddit post
